@@ -100,16 +100,16 @@ class _ChatScreenState extends State<ChatScreen> {
   Widget clientPhoto() {
     return Container(
         constraints: const BoxConstraints(
-        minHeight: 180, 
-        maxHeight: 180,
+        minHeight: 160, 
+        maxHeight: 160,
         minWidth: double.infinity),
         alignment: Alignment.centerRight,
         child: Padding(
             padding: const EdgeInsets.only(right: 20),
             child: Image.asset(
               "assets/chat/foto_campo.png",
-              width: 200,
-              height: 200,
+              width: 170,
+              height: 170,
             )));
   }
 
