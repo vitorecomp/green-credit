@@ -2,23 +2,41 @@
 
 Serpro hackaton code - 2023
 
+<p align="center">
+  <img width="460" height="400" src="docs/main-logo.png">
+</p>
+
 ## Descrição
 
 Aplicativo web desenvolvido em flutter, para a hackthon do serpro
-2023, esta aplicação conta com o desenvolvimento de das seguintes telas:
+2023, esta aplicação conta com o desenvolvimento de das telas descitas abaixo.
+
+Para a aplicação foram utilizadas as seguintes tecnologias:
+
+<p align="center">
+  <img src="docs/tecnologias.jpeg">
+</p>
 
 ## Login
 
-![Screenshot](docs/pages/login.png)
+<p align="center">
+  <img src="docs/pages/login.png">
+</p>
 
 ## Cards
 
-![Screenshot](docs/pages/cards.png)
+<p align="center">
+  <img src="docs/pages/cards.png">
+</p>
 
 ## Reels Page
 
-![Screenshot](docs/pages/reels.png)
+<p align="center">
+  <img src="docs/pages/reels.png">
+</p>
 
 ## Chat bot page
 
-![Screenshot](docs/pages/chatbot.png)
+<p align="center">
+  <img src="docs/pages/chatbot.png">
+</p>
