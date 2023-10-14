@@ -24,7 +24,7 @@ class _MainViewState extends State<MainView> {
             return LoginScreen(
               controller: controller,
             );
-          } else if (index == 1) {
+          } else {
             return SingUpScreen(
               controller: controller,
             );

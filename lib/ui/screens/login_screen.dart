@@ -17,7 +17,7 @@ class _LoginScreenState extends State<LoginScreen> {
   Widget build(BuildContext context) {
     return Stack(children: <Widget>[
       Image.asset(
-        "assets/login/login-screen.png",
+        "assets/login/login-back.png",
         height: MediaQuery.of(context).size.height,
         width: MediaQuery.of(context).size.width,
         fit: BoxFit.cover,
@@ -141,7 +141,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         onPressed: () {
                           Navigator.push(
                             context,
-                            MaterialPageRoute(builder: (context) => MainPage()),
+                            MaterialPageRoute(builder: (context) => const MainPage()),
                           );
                           widget.controller.animateToPage(1,
                               duration: const Duration(milliseconds: 500),
