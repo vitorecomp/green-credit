@@ -3,7 +3,7 @@
 Serpro hackaton code - 2023
 
 <p align="center">
-  <img width="460" height="400" src="docs/main-logo.png">
+  <img src="docs/main-logo.png">
 </p>
 
 ## Descrição
